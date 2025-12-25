@@ -4,6 +4,10 @@
 
 # <p align="center">Afilmory</p>
 
+## <p align="center">
+<a href="/README.md"><img alt="English" src="https://img.shields.io/badge/English-d9d9d9"></a> <a href="/docs/README.zh_CN.md"><img alt="中文(简体)" src="https://img.shields.io/badge/中文(简体)-d9d9d9"></a>
+</p>
+
 Afilmory（/əˈfɪlməri/）是一个为个人摄影网站创造的词，融合了AF（自动对焦）、aperture（光线控制）、film（复古媒介）与 memory（被捕捉的瞬间）。
 
 一个使用 React + TypeScript 构建的现代照片图库网站，支持从多种存储源（S3、GitHub）自动同步照片，提供高性能 WebGL 渲染、瀑布流布局、EXIF 信息展示、缩略图生成等功能。
